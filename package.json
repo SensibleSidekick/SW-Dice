@@ -1,0 +1,22 @@
+{
+  "name": "sw-dice",
+  "version": "1.0.0",
+  "description": "Savage Worlds Dice Roller",
+  "main": "script.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SensibleSidekick/SW-Dice.git"
+  },
+  "author": "Cypress Doherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SensibleSidekick/SW-Dice/issues"
+  },
+  "homepage": "https://github.com/SensibleSidekick/SW-Dice#readme"
+}
